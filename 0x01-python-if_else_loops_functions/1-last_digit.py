@@ -10,4 +10,4 @@ if number >= 0:
 elif number < 0:
     x = number % -10
     print("Last digit of {} is {} and is less than 6 and not 0"
-            .format(number, x))
+         .format(number, x))
